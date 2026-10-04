@@ -1,0 +1,6 @@
+{
+  "name": "MedBalance",
+  "description": "Predictive analytics platform for drug inventory management, early shortage prevention, and real-time healthcare logistics in Kazakhstan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
